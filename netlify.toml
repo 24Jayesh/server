@@ -1,3 +1,3 @@
 [build]
-command = "npm run build"
+command = "nodemon index.js"
 publish = "dist"  # or the directory where your build artifacts are located
