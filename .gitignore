@@ -14,7 +14,7 @@
 # Ignore log files and temporary files
 *.log
 *.tmp
-*.env
+.env
 
 # Ignore configuration files that may contain sensitive information
 config.ini
