@@ -25,6 +25,6 @@ app.get('/api/hello', (req, res) => {
     res.json({ message: 'Hello from serverless function!' });
   });
   
-app.listen(PORT,()=>{
+app.listen(5005,()=>{
     console.log(`Server is running on port ${PORT}`);
 });
